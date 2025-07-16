@@ -1,0 +1,11 @@
+epoch: 0, train_batch_id: 0, avg_cost: 0.0
+epoch: 2, train_batch_id: 10, avg_cost: 0.0
+epoch: 5, train_batch_id: 0, avg_cost: 0.0
+epoch: 7, train_batch_id: 10, avg_cost: 0.0
+epoch: 10, train_batch_id: 0, avg_cost: 0.0
+epoch: 12, train_batch_id: 10, avg_cost: 0.0
+epoch: 15, train_batch_id: 0, avg_cost: 0.0
+epoch: 17, train_batch_id: 10, avg_cost: 0.0
+epoch: 20, train_batch_id: 0, avg_cost: 0.0
+epoch: 22, train_batch_id: 10, avg_cost: 0.0
+epoch: 25, train_batch_id: 0, avg_cost: 0.0
