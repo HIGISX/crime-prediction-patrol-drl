@@ -1,4 +1,4 @@
-# Spatiotemporal Crime Prediction and Fairness-Constrained Spatial Optimization with Deep Reinforcement Learning for Patrol Region Design
+# Spatiotemporal Crime Prediction and Fairness Constrained Spatial Optimization with Deep Reinforcement Learning for Patrol Region Design
 This repository provides part of the data and source code for the paper **"Spatiotemporal Crime Prediction and Fairness-Constrained Spatial Optimization with Deep Reinforcement Learning for Patrol Region Design"**.
 
 ## Dependencies
